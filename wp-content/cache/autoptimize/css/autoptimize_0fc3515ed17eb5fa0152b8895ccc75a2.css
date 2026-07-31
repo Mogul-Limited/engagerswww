@@ -1777,7 +1777,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-arrows-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/arrows/linea-arrows-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1785,7 +1785,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-basic-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic/linea-basic-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1793,7 +1793,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-music-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/music/linea-music-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1801,7 +1801,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-software-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/software/linea-software-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1809,7 +1809,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-ecommerce-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/ecommerce/linea-ecommerce-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1817,7 +1817,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-weather-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/weather/linea-weather-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -1825,7 +1825,7 @@ body .wpcf7-response-output {
 @font-face {
     font-family: linea-basic-elaboration-10;
     src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.eot);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.eot?) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.svg) format("svg");
+    src: url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.eot) format("embedded-opentype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.woff) format("woff"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.ttf) format("truetype"), url(../../../plugins/df-shortcodes/assets/fonts/linea/basic-elaboration/linea-basic-elaboration-10.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -30557,8 +30557,8 @@ body .wpb_gallery_slides ul li {
 
 @font-face {
     font-family: vc_grid_v1;
-    src: url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
-    src: url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.eot?) format('embedded-opentype'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format('woff'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format('truetype'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac) format('svg');
+    src: url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.eot);
+    src: url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.eot) format('embedded-opentype'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.woff) format('woff'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.ttf) format('truetype'), url(../../../plugins/df-shortcodes/assets/fonts/vc_grid/vc_grid_v1.svg) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -32863,8 +32863,8 @@ table {
  */
 @font-face {
     font-family: 'Material Design Iconic Font';
-    src: url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.eot?v=1.0.1);
-    src: url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.eot?) format('embedded-opentype'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.woff?v=1.0.1) format('woff'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.ttf?v=1.0.1) format('truetype'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.svg?v=1.0.1) format('svg');
+    src: url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.eot);
+    src: url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.eot) format('embedded-opentype'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.woff) format('woff'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.ttf) format('truetype'), url(../../../themes/verko/includes/assets/fonts/Material-Design-Iconic-Font.svg) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -36014,8 +36014,8 @@ table {
  */
 @font-face {
     font-family: FontAwesome;
-    src: url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
-    src: url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.eot?) format('embedded-opentype'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.svg?v=4.6.3) format('svg');
+    src: url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.eot);
+    src: url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.eot) format('embedded-opentype'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.woff2) format('woff2'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.woff) format('woff'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.ttf) format('truetype'), url(../../../themes/verko/includes/assets/fonts/fontawesome-webfont.svg) format('svg');
     font-weight: 400;
     font-style: normal
 }
